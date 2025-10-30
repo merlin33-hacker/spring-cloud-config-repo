@@ -1,8 +1,0 @@
-server:
-  port: 8082
-
-spring:
-  application:
-    name: order-service
-
-message: Hello from Git Config Repo - Order Service
